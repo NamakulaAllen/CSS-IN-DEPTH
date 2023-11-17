@@ -1,0 +1,28 @@
+.container{
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.row-container{
+    display: inline-flex;
+    gap: 2rem;
+}
+
+.hover a:hover{
+    color:green
+}
+.hover{
+    display: flex;
+    gap: 2rem;
+}
+
+.active a:active{
+    color: red;
+}
+
+.active{
+    display: flex;
+    gap: 2rem;
+}

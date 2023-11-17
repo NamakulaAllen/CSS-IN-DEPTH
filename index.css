@@ -1,0 +1,9 @@
+.container{
+    gap: 2rem;
+    display: inline-flex;
+}
+
+.row-container{
+    display: inline-flex;
+    gap: 2rem;
+}

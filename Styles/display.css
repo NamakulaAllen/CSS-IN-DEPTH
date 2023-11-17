@@ -1,0 +1,15 @@
+.block{
+    display: block;
+    text-decoration: dotted;
+    text-align: left;
+    text-transform: uppercase;
+    color: blue;
+}
+
+.inline{
+    display: inline;
+    text-decoration: dotted;
+    text-align: right;
+    text-transform: lowercase;
+    color: green;
+}
